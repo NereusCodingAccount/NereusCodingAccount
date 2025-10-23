@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+### I'm a senior student in Taiwan
+Recently,i  have practiced my programing
+skills.I have learn Python for three months.
+I want to build an AI,and i have study ANNs.
 <!--
 **NereusCodingAccount/NereusCodingAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
