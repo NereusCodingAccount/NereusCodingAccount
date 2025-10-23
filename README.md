@@ -2,7 +2,12 @@
 ### I'm a senior student in Taiwan
 Recently,i  have practiced my programing
 skills.I have learn Python for three months.
-I want to build an AI,and i have study ANNs.
+I want to build an AI,and i have studied ANNs.
+
+## Record
+
+[2025/10/23](./RNN.md)
+
 <!--
 **NereusCodingAccount/NereusCodingAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
