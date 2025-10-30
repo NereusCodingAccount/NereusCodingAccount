@@ -1,12 +1,13 @@
 ## Hi there 👋
-### I'm a senior student in Taiwan
-Recently,i  have practiced my programing
-skills.I have learn Python for three months.
-I want to build an AI,and i have studied ANNs.
+### I am currently a high school student in Taiwan, actively engaged in learning about artificial intelligence (AI). As technology develops rapidly, AI has become an essential field that plays a key role in modern society—ranging from industry applications and academic research to daily life.
 
-## Record
+### To deepen my understanding, I spend a lot of time studying the fundamentals of mathematics, programming, and core concepts in machine learning. This includes linear algebra, probability and statistics, the Python programming language, and common neural network architectures such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), as well as various normalization and optimization techniques. I also make use of online resources like YouTube, GitHub, online courses, and tutorial websites to continuously explore the latest developments and practical cases in AI.
 
-[2025/10/23](./RNN.md)
+### During this process, I have made it a habit to document and organize my learning notes, sharing my progress on GitHub with classmates, friends, and the global developer community. This not only helps me to understand the material more thoroughly, but also improves my problem-solving and collaboration skills.
+
+### As a high school student, I believe that building a solid foundation in AI at an early stage will give me a competitive edge, whether in future studies or in my career. I also hope to apply what I learn to solve real-world problems and create a positive impact on society.
+
+### I wrote all of this using AI because my English is terrible.
 
 <!--
 **NereusCodingAccount/NereusCodingAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
